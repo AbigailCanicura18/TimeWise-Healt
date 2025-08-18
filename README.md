@@ -1,2 +1,2 @@
-# TimeWise-Healts
-Repositorio para el proyecto TP del 4°E
+# CronoDosis
+nuestro pastillero inteligente es la solución a los problemas de gestión de medicinas
